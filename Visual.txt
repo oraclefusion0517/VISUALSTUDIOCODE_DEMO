@@ -1,2 +1,3 @@
 This is the file for Visual Studio code sample file
 Second line added
+Third line added
